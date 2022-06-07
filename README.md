@@ -1,2 +1,2 @@
 # flash-games
-The list of flash games made in junior secondary school
+A list of Flash games I made during my junior secondary school.
